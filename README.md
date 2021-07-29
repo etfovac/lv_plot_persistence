@@ -2,7 +2,7 @@
 
 Display signals with scope's persistence effect in LabVIEW's waveform graph
 
-Published also as a [NI Example](https://forums.ni.com/t5/Example-Code/Persistence-effect-in-waveform-graph/ta-p/4168343)
+Published also as an [NI Example](https://forums.ni.com/t5/Example-Code/Persistence-effect-in-waveform-graph/ta-p/4168343)
 
 ### Table of Contents (Wiki)
 [Wiki Home](https://github.com/etfovac/lv_plot_persistence/wiki)  
