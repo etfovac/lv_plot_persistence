@@ -11,6 +11,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="ColorSelection.ctl" Type="VI" URL="../ColorSelection.ctl"/>
 		<Item Name="Persistence.vi" Type="VI" URL="../Persistence.vi"/>
 		<Item Name="PlotColor.vi" Type="VI" URL="../PlotColor.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
