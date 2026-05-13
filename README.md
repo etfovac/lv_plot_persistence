@@ -1,7 +1,11 @@
 # Scope's persistence effect in waveform graph 
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.5146838-blue.svg)](https://doi.org/10.5281/zenodo.5146838)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/etfovac/lv_plot_persistence/blob/main/LICENSE) 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](https://github.com/etfovac/lv_plot_persistence/blob/main/LICENSE)
+[![Release](https://img.shields.io/github/v/release/etfovac/lv_plot_persistence?style=flat-square)](https://github.com/etfovac/lv_plot_persistence/releases)
+<!-- [![Downloads](https://img.shields.io/github/downloads/etfovac/lv_plot_persistence/total?style=flat-square)](https://github.com/etfovac/lv_plot_persistence/releases) -->
+<!-- [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.5146838-blue.svg)](https://doi.org/10.5281/zenodo.5146838) -->
+<!-- [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/etfovac/lv_plot_persistence/blob/main/LICENSE)-->
 
 Display signals with scope's persistence effect in LabVIEW's waveform graph
 
